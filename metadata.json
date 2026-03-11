@@ -1,0 +1,5 @@
+{
+  "name": "Zora",
+  "description": "A professional AI video generation platform powered by RunwayML and Gemini.",
+  "requestFramePermissions": []
+}
